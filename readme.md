@@ -13,4 +13,4 @@ better game features.
 This "game" is just a time attack mode where you try and get the highest score possible
 within the time limit.
 
-The better you type the higher your combo gets so wath out for typos!
+The better you type the higher your combo gets so watch out for typos!
